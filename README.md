@@ -1,1 +1,1 @@
-The objective of this project was the creation of a powerbi dashboard, 
+The objective of this project was the creation of a powerbi dashboard, to allow the consolidation and analysis of different sales and profit indicators. This dashboard is composed by three pages, aimed at several audiences, ranging from the sales teams to managers.
